@@ -1,0 +1,28 @@
+C:\Users\dell\source\repos\FloraPOC\FloraPOC.Domain\bin\Debug\net8.0\FloraPOC.Domain.deps.json
+C:\Users\dell\source\repos\FloraPOC\FloraPOC.Domain\bin\Debug\net8.0\FloraPOC.Domain.runtimeconfig.json
+C:\Users\dell\source\repos\FloraPOC\FloraPOC.Domain\bin\Debug\net8.0\FloraPOC.Domain.dll
+C:\Users\dell\source\repos\FloraPOC\FloraPOC.Domain\bin\Debug\net8.0\FloraPOC.Domain.pdb
+C:\Users\dell\source\repos\FloraPOC\FloraPOC.Domain\obj\Debug\net8.0\FloraPOC.Domain.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\FloraPOC\FloraPOC.Domain\obj\Debug\net8.0\FloraPOC.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\FloraPOC\FloraPOC.Domain\obj\Debug\net8.0\FloraPOC.Domain.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\FloraPOC\FloraPOC.Domain\obj\Debug\net8.0\FloraPOC.Domain.AssemblyInfo.cs
+C:\Users\dell\source\repos\FloraPOC\FloraPOC.Domain\obj\Debug\net8.0\FloraPOC.Domain.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\FloraPOC\FloraPOC.Domain\obj\Debug\net8.0\FloraPOC.Domain.dll
+C:\Users\dell\source\repos\FloraPOC\FloraPOC.Domain\obj\Debug\net8.0\refint\FloraPOC.Domain.dll
+C:\Users\dell\source\repos\FloraPOC\FloraPOC.Domain\obj\Debug\net8.0\FloraPOC.Domain.pdb
+C:\Users\dell\source\repos\FloraPOC\FloraPOC.Domain\obj\Debug\net8.0\FloraPOC.Domain.genruntimeconfig.cache
+C:\Users\dell\source\repos\FloraPOC\FloraPOC.Domain\obj\Debug\net8.0\ref\FloraPOC.Domain.dll
+C:\Users\Hamza Naeem\Downloads\FloraPOC\FloraPOC.Domain\bin\Debug\net8.0\FloraPOC.Domain.deps.json
+C:\Users\Hamza Naeem\Downloads\FloraPOC\FloraPOC.Domain\bin\Debug\net8.0\FloraPOC.Domain.runtimeconfig.json
+C:\Users\Hamza Naeem\Downloads\FloraPOC\FloraPOC.Domain\bin\Debug\net8.0\FloraPOC.Domain.dll
+C:\Users\Hamza Naeem\Downloads\FloraPOC\FloraPOC.Domain\bin\Debug\net8.0\FloraPOC.Domain.pdb
+C:\Users\Hamza Naeem\Downloads\FloraPOC\FloraPOC.Domain\obj\Debug\net8.0\FloraPOC.Domain.csproj.AssemblyReference.cache
+C:\Users\Hamza Naeem\Downloads\FloraPOC\FloraPOC.Domain\obj\Debug\net8.0\FloraPOC.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hamza Naeem\Downloads\FloraPOC\FloraPOC.Domain\obj\Debug\net8.0\FloraPOC.Domain.AssemblyInfoInputs.cache
+C:\Users\Hamza Naeem\Downloads\FloraPOC\FloraPOC.Domain\obj\Debug\net8.0\FloraPOC.Domain.AssemblyInfo.cs
+C:\Users\Hamza Naeem\Downloads\FloraPOC\FloraPOC.Domain\obj\Debug\net8.0\FloraPOC.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Hamza Naeem\Downloads\FloraPOC\FloraPOC.Domain\obj\Debug\net8.0\FloraPOC.Domain.dll
+C:\Users\Hamza Naeem\Downloads\FloraPOC\FloraPOC.Domain\obj\Debug\net8.0\refint\FloraPOC.Domain.dll
+C:\Users\Hamza Naeem\Downloads\FloraPOC\FloraPOC.Domain\obj\Debug\net8.0\FloraPOC.Domain.pdb
+C:\Users\Hamza Naeem\Downloads\FloraPOC\FloraPOC.Domain\obj\Debug\net8.0\FloraPOC.Domain.genruntimeconfig.cache
+C:\Users\Hamza Naeem\Downloads\FloraPOC\FloraPOC.Domain\obj\Debug\net8.0\ref\FloraPOC.Domain.dll

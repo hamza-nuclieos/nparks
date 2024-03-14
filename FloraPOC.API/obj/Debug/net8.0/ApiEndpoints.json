@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "FloraPOC.API.Controllers.SpeciesController",
+    "Method": "GetSpecies",
+    "RelativePath": "api/Species/Get",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
